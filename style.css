@@ -170,8 +170,8 @@ img { max-width: 100%; }
 }
 @keyframes spin { to { transform: rotate(360deg); } }
 .profile-img {
-  width: 320px;  /* ✅ MODIFIÉ */
-  height: 320px; /* ✅ MODIFIÉ */
+  width: 500px;  /* ✅ MODIFIÉ */
+  height: 500px; /* ✅ MODIFIÉ */
   border-radius: 50%;
   overflow: hidden;
   position: relative;
